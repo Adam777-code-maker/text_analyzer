@@ -1,14 +1,3 @@
-"""
-
-projekt_1.py: první projekt do Engeto Online Python Akademie
-
-author: Adam Směšný
-
-email: adamsmesny@email.cz
-
-discord: adams._25049
-
-"""
 #podtrzeni
 podtrzeni = "*"
 
